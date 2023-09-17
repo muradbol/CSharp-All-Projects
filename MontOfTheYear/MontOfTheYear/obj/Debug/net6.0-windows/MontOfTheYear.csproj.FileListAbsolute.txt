@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\bin\Debug\net6.0-windows\MontOfTheYear.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\bin\Debug\net6.0-windows\MontOfTheYear.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\bin\Debug\net6.0-windows\MontOfTheYear.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\bin\Debug\net6.0-windows\MontOfTheYear.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\bin\Debug\net6.0-windows\MontOfTheYear.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\refint\MontOfTheYear.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\MontOfTheYear.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MontOfTheYear\MontOfTheYear\obj\Debug\net6.0-windows\ref\MontOfTheYear.dll

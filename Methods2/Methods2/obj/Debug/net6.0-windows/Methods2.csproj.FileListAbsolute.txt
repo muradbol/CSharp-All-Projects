@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\bin\Debug\net6.0-windows\Methods2.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\bin\Debug\net6.0-windows\Methods2.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\bin\Debug\net6.0-windows\Methods2.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\bin\Debug\net6.0-windows\Methods2.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\bin\Debug\net6.0-windows\Methods2.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\refint\Methods2.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\Methods2.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Methods2\Methods2\obj\Debug\net6.0-windows\ref\Methods2.dll

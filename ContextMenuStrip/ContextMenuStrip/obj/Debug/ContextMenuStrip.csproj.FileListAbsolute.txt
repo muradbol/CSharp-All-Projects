@@ -1,0 +1,10 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe.config
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\bin\Debug\ContextMenuStrip.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.AssemblyReference.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.Properties.Resources.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ContextMenuStrip\ContextMenuStrip\obj\Debug\ContextMenuStrip.pdb

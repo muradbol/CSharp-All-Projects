@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\bin\Debug\net6.0-windows\Diziler.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\refint\Diziler.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\Diziler.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Diziler\Diziler\obj\Debug\net6.0-windows\ref\Diziler.dll

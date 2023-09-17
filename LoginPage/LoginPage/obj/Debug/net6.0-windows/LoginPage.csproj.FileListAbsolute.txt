@@ -1,0 +1,17 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\bin\Debug\net6.0-windows\LoginPage.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\bin\Debug\net6.0-windows\LoginPage.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\bin\Debug\net6.0-windows\LoginPage.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\bin\Debug\net6.0-windows\LoginPage.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\bin\Debug\net6.0-windows\LoginPage.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.Properties.Resources.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\refint\LoginPage.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\LoginPage.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\LoginPage\LoginPage\obj\Debug\net6.0-windows\ref\LoginPage.dll

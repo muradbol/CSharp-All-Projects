@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\bin\Debug\net6.0-windows\Karar_Yapilari.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\refint\Karar_Yapilari.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\Karar_Yapilari.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\Karar_Yapilari\Karar_Yapilari\obj\Debug\net6.0-windows\ref\Karar_Yapilari.dll

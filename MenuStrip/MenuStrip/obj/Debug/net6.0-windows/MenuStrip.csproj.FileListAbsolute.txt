@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\bin\Debug\net6.0-windows\MenuStrip.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\bin\Debug\net6.0-windows\MenuStrip.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\bin\Debug\net6.0-windows\MenuStrip.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\bin\Debug\net6.0-windows\MenuStrip.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\bin\Debug\net6.0-windows\MenuStrip.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\refint\MenuStrip.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\MenuStrip.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\MenuStrip\MenuStrip\obj\Debug\net6.0-windows\ref\MenuStrip.dll

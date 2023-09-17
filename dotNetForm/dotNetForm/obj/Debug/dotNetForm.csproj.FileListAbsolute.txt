@@ -1,0 +1,10 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\bin\Debug\dotNetForm.exe.config
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\bin\Debug\dotNetForm.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\bin\Debug\dotNetForm.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.csproj.AssemblyReference.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.Properties.Resources.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\dotNetForm\dotNetForm\obj\Debug\dotNetForm.pdb

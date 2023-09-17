@@ -1,0 +1,16 @@
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\bin\Debug\net6.0-windows\ForeachDongusu.exe
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\bin\Debug\net6.0-windows\ForeachDongusu.deps.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\bin\Debug\net6.0-windows\ForeachDongusu.runtimeconfig.json
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\bin\Debug\net6.0-windows\ForeachDongusu.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\bin\Debug\net6.0-windows\ForeachDongusu.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.Form1.resources
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.csproj.GenerateResource.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.AssemblyInfoInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.AssemblyInfo.cs
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.csproj.CoreCompileInputs.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\refint\ForeachDongusu.dll
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.pdb
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ForeachDongusu.genruntimeconfig.cache
+C:\Users\hacke\OneDrive\Masaüstü\C# PROJELER\ForeachDongusu\ForeachDongusu\obj\Debug\net6.0-windows\ref\ForeachDongusu.dll
